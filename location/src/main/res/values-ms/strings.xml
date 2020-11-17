@@ -1,0 +1,15 @@
+<resources>
+    <string name="str_mod_loc_searching">Mencari Lokasi ...</string>
+    <string name="str_mod_loc_is_correct">Adakah titik lokasi kehadiran betul?</string>
+    <string name="str_mod_loc_location_not_found">Kami tidak dapat mencari lokasi anda.</string>
+    <string name="str_mod_loc_refresh">Segarkan</string>
+    <string name="str_mod_loc_yes">Ya</string>
+    <string name="str_mod_loc_high_accuracy">GPS mesti Akurasi Tinggi diaktifkan untuk merakam Kehadiran</string>
+    <string name="you">Anda</string>
+    <string name="your_company">Syarikat awak</string>
+    <string name="str_accuracy">Ketepatan %s meter</string>
+    <string name="str_location_spoofing_message">Kami mengesan bahawa anda menggunakan perkhidmatan untuk menipu lokasi anda.</string>
+    <string name="str_continue">Teruskan</string>
+    <string name="str_dismiss">Ketepikan</string>
+    <string name="str_warning">Amaran</string>
+</resources>
